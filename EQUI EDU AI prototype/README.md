@@ -56,11 +56,7 @@ Session Memory: All interactions are saved and displayed during the session.
 
 bash
 
-\# 1. Clone or download this repo.
-
-git clone https://github.com/YOURUSERNAME/EQUI\_EDU\_AI.git
-
-cd EQUI\_EDU\_AI
+\# 1. Clone or download this repo
 
 
 
@@ -74,7 +70,7 @@ pip install streamlit pandas
 
 streamlit run streamlit\_app.py
 
-Open your browser to http://localhost:8501
+
 
 
 
@@ -123,4 +119,5 @@ Orchestrator runs content, accessibility, equity, assessment, and motivation age
 
 
 System response includes personalized explanation, fairness/accessibility notes, quiz, and a motivational message—all tracked in your session memory
+
 
